@@ -1,4 +1,4 @@
-# Regional-Sales-Performance-Tracker
+# Regional Sales Performance Tracker
 
 An enterprise-grade Power BI dashboard designed to track, analyze, and visualize Fast-Moving Consumer Goods (FMCG) sales performance. This project transforms raw transaction data into actionable business insights regarding regional distribution, brand dominance, and chronological sales trends.
 
